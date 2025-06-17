@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! I'm Sai Arihara Sudan Pasupathy, a passionate developer who loves to explore various technologies and solve problems using code.
-I'm currently Focused on Machine Learning and Data Science.
+I'm currently Focused on Frontend & acheiving Full Stack
 
 
 ## 🌐 Socials:
